@@ -4,7 +4,7 @@
  * Compiler:  Arduino AVR
  * Name of the project: ArduinoWave - Wave generator using Arduino UNO and R-2R DAC
  * Developer: José L. Natalício
- * Revision: 2.0
+ * Revision: 1.2
  */
 
 /*---------------------- Hardware ------------------------*/
